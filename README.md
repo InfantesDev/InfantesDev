@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonio Infantes</h1>
 <h3 align="center">A passionate developer from Spain</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/r-97D5uxf9kAAAAd/hacker-ascii.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infantesdev&label=Profile%20views&color=0e75b6&style=flat" alt="infantesdev" /> </p>
 
