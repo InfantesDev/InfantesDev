@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Antonio Infantes</h1>
+<h1 align="center">Hi 👋, I'm ant0dev</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infantesdev&label=Profile%20views&color=0e75b6&style=flat" alt="infantesdev" /> </p>
 
-- 🔭 I’m currently working on **DailyTune**
+- 🔭 I’m currently working on **Cie Informatica**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Cibersecurity**
 
 - 👨‍💻 All of my projects are available at [https://infantesdev.github.io/](https://infantesdev.github.io/)
 
-- 💬 Ask me about **Flutter , Java**
+- 💬 Ask me about **Flutter , Java, Javascript, Cibersecurity**
 
 - 📫 How to reach me **antonioinfantesmar@gmail.com**
 
